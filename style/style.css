@@ -1,0 +1,75 @@
+*body{
+    margin-top: 0px;
+    padding-top: 0px;
+}
+header{
+    background-color: rgba(247, 239, 239, 0.897);
+    border: solid black 2px;
+
+}
+.liste{
+    display: flex;
+
+}
+.liste a{
+    text-align: center;
+    margin-left :120px;
+    color: rgb(9, 212, 9);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.corps{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.corps img{
+    height: 500px;
+    width: 2000px;
+}
+.souscorps{
+    display: flex;
+}
+.souscorps img{
+    margin-top: 20px;
+    padding-left: 90px;
+}
+.valeurs{
+    display: flex;
+}
+.valeurs h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    width: 200px;
+   background-color: green;
+    margin-top: 20px;
+    margin-left: 100px;
+}
+footer{
+    margin: 0px;
+    padding: 0px;
+   /* background-color: rgb(51, 49, 54);*/
+}
+div img{
+    height: 40px;
+    width: 40px;
+}
+footer h3{
+    /*color: white;*/
+    display: flex;
+}
+.pied p{
+    /*color: white;*/
+    display: flex;
+
+}
+.pied-page h3{
+    display: flex;
+
+
+}
+

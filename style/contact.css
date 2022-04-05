@@ -1,0 +1,126 @@
+body{
+     background-color: rgb(188, 219, 228); 
+   box-sizing: border-box;
+ }
+ 
+ .entete {
+   background-color: #f1f1f1;
+   text-align: center;
+   height: 100px;
+   border-radius: 20px;
+   width: 100vw;
+   display: flex;
+ }
+ .entete .log {
+   background-color: #f1f1f1;
+   width: 25%;
+ }
+ .entete .log1 {
+     display: flex;
+     width: 75%;
+     height: 100%;
+     flex-wrap: nowrap;
+     align-content: space-around;
+     justify-content: space-evenly;
+     align-items: center;
+ }
+ .entete .log1 a {
+   color: rgb(7, 131, 44);
+   text-decoration: none;
+   
+   background-color: #fff;
+   padding: 10px;
+ }
+ .corps{
+display: flex;
+ }
+ .volont{
+   text-align: center;
+   color: green;
+   font-size: 30px;
+   margin-left: 50px;
+ }
+ .volont1{
+   color: blue;
+   text-align: center;
+   font-size: 20px;
+   margin-left: 50px;
+ }
+ .text{
+   width: 250px;
+   margin-top: 20px;
+ }
+
+ .text1{
+   height: 100px;
+   width: 250px;
+   margin-top: 20px;
+   
+ }
+ .volonte{
+   margin-left: 100px;
+   margin-top: 50px;
+ }
+ h1{
+   color: #194c75;
+   height: 10px;
+   width: auto;
+   text-align: center;
+   font-size: 30px;
+  
+ }
+.images img{
+  margin-left: 400px;
+  height: auto;
+  width: 500px;
+
+}
+h2{
+  color: #2ba73d;
+  height: 10px;
+  width: auto;
+  text-align: center;
+}
+ 
+ 
+ .footer img {
+    width: 50px;
+  }
+  footer {
+    margin-top: 50px;
+  }
+  .footer {
+    display: flex;
+    color: #f1f1f1;
+    padding-left: 300px;
+    background-color: black;
+    height: 220px;
+  }
+  h3 {
+    font-size: 30px;
+    color: rgb(5 163 44);
+    background-color: black;
+  }
+  .foot {
+    display: block;
+    background-color: black;
+    padding: 0 50px 0 0;
+  }
+  .liste {
+    background-color: #000;
+  }
+  
+  .cool p {
+    background-color: #000;
+    display: inline-block;
+    color: #f1f1f1;
+  }
+  .cool {
+    background-color: #000;
+  }
+  .p2 {
+    margin-left: 800px;
+  }
+  .p1 {
+    margin-left: 20px;
+}
